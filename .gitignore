@@ -1,0 +1,5 @@
+# Ignore everything in the 'checkpoints' directory
+checkpoints/
+
+# Ignore everything in the 'importance_results' directory
+importance_results/
